@@ -5,7 +5,7 @@ body {
     font-family: Arial, sans-serif;
     background: url('https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg') no-repeat center center fixed;
     background-size: cover;
-    color: #ffffff; /* To make text readable on the background */
+    color: #ffffff;
 }
 
 /* Container for the login forms */
@@ -14,8 +14,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgba(0, 0, 0, 0.6); /* Dark overlay for better readability */
-}
+    background-color: rgba(0, 0, 0, 0.6);
 
 /* Form container styling */
 .form-container {
